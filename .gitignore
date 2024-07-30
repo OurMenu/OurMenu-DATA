@@ -1,2 +1,7 @@
 *.json
 .idea
+logs
+airflow-webserver.pid
+airflow.cfg
+airflow.db
+standalone_admin_password.txt
