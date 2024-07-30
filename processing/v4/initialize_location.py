@@ -62,8 +62,8 @@ def preprocess_json(file_path):
 
 
 input_directory_path = 'data'
-output_directory_path = '../v2/data'
-error_directory='../v2/error'
+output_directory_path = '../v5/data'
+error_directory='../v5/error'
 
 if not os.path.exists(output_directory_path):
     os.makedirs(output_directory_path)

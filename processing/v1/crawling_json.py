@@ -135,7 +135,7 @@ def process_json_files(input_dir, output_dir):
 if __name__ == "__main__":
     # JSON 파일 경로와 결과 파일 경로 설정
     input_dir = 'data'
-    output_dir = '../p2/data'
+    output_dir = '../v2/data'
 
     process_json_files(input_dir, output_dir)
     print_result();

@@ -58,7 +58,7 @@ def process_json_files_in_directory(directory,output_directory):
 # 입력 파일과 출력 파일 경로 지정
 input_directory = 'data'
 # 입력 파일과 출력 파일 경로 지정
-output_directory = '../v0/data'
+output_directory = '../v3/data'
 
 # JSON 파일 처리 함수 호출
 process_json_files_in_directory(input_directory,output_directory)

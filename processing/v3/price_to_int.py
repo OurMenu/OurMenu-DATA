@@ -3,7 +3,7 @@ import json
 
 # 특정 디렉토리 경로 설정
 input_directory_path = 'data'
-output_directory_path = '../v1/data'
+output_directory_path = '../v4/data'
 
 total_menu_count = 0
 cancel_count = 0

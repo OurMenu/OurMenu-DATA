@@ -2,7 +2,7 @@ import json
 import os
 
 input_file = 'data/서울시 일반음식점 인허가 정보.json'  # 대용량 JSON 파일이 저장된 디렉토리
-output_dir = '../p1/data'  # 결과 JSON 디렉토리 경로
+output_dir = '../v1/data'  # 결과 JSON 디렉토리 경로
 BATCH_SIZE = 1
 LOCAL="광진구"
 
